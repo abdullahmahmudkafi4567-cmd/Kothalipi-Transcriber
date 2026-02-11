@@ -1,0 +1,7 @@
+{
+  "name": "Kotha Lipi Transcriber",
+  "description": "A high-end, glassmorphic Bengali transcription app that uses Gemini to convert audio into formal 'Shuddho' Bengali text with perfect grammar and spelling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
